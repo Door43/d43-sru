@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[sru:home|Door43 (sru)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-sru|d43-sru repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-sru/archive/master.zip|d43-sru.zip]]
+
+**Recent Changes**
+{{changes>ns = sru}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/sru|Ethnologue data]]
+
